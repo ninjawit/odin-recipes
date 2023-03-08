@@ -1,0 +1,38 @@
+body {
+    font-family: monospace, sans-serif;
+}
+
+h1 {
+    background-color: fuchsia;
+    color: yellow;
+}
+
+h2 {
+    background-color: cyan;
+    color: navy;
+}
+
+p {
+    background-color: purple;
+    color: orange;
+}
+
+ul {
+    font-weight: 800;
+    font-size: 18px;
+    background-color: yellowgreen;
+    color: brown;
+}
+
+ol {
+    background-color: black;
+    color: red;
+}
+
+.ingredients {
+    background-color: lightcoral;
+}
+
+.steps {
+    background-color: gold;
+}
